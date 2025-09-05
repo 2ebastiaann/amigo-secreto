@@ -1,4 +1,4 @@
-assets/amigoSecreto.png
+<img src ="assets/amigoSecreto.png">
 
 
 <h1>Amigo secreto</h1>
