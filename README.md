@@ -1,6 +1,3 @@
-<img src ="assets/amigoSecreto.png">
-
-
 <h1>Amigo secreto</h1>
 
 <p>Este aplicacion web sencilla permite realizar un sorteo de amigo secreto de una forma muy didactica, facil y divertida.</p>
